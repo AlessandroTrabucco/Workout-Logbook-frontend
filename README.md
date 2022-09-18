@@ -1,4 +1,4 @@
-# Workout Logbook
+# Workout Logbook Frontend
 
 Flutter mobile app to track the gym progress.
 
