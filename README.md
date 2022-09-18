@@ -1,16 +1,18 @@
-# gym_app
+# Workout Logbook
 
-A new Flutter project.
+Flutter mobile app to track the gym progress.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+The user can create a workout and track every session of that workout including the weights and notes.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+The user can update and delete a workout.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+This app uses google-signin package to use Google Auth.
+
+
+This frontend application sends requests to a rest API developed in Node.js that you can access here.
+
+
+
