@@ -12,7 +12,7 @@ The user can update and delete a workout.
 This app uses google-signin package to use Google Auth.
 
 
-This frontend application sends requests to a rest API developed in Node.js that you can access here https://github.com/AlessandroTrabucco/Workout-Logbook-backend.
+This frontend application sends requests to a REST API developed in Node.js that you can access here https://github.com/AlessandroTrabucco/Workout-Logbook-backend.
 
 
 
